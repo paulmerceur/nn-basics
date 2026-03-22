@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data / checkpoints (often large)
+data/
+*.pt
+*.pth
+*.ckpt
+*.h5
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
